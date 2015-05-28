@@ -1,0 +1,15 @@
+﻿<Page
+    x:Class="App5.SelectPics"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App5"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <Image HorizontalAlignment="Left" Height="506" Margin="73,122,0,0" VerticalAlignment="Top" Width="381" Source="Images/kobe.jpg"/>
+        <Image HorizontalAlignment="Left" Height="453" Margin="514,175,0,0" VerticalAlignment="Top" Width="550" Source="Images/lion.jpg"/>
+    </Grid>
+</Page>
+

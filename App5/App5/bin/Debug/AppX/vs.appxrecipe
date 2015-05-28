@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DMONEYADDICT</Machine>
+    <WindowsUser>Dapo</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e6397e01-5b86-451f-88c1-039e3701ee8a</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>65FD60010879136C8734F4EE47CCCB7D3B7B448636B2A06BD2609093622B3C75</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e6397e01-5b86-451f-88c1-039e3701ee8a_1.0.0.0_neutral__769vnzpq748mt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e6397e01-5b86-451f-88c1-039e3701ee8a_769vnzpq748mt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e6397e01-5b86-451f-88c1-039e3701ee8a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=dapo</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-28T22:21:28.559</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\App5.exe">
+      <PackagePath>App5.exe</PackagePath>
+      <Modified>2015-05-28T22:24:55.999</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T06:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T06:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T06:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T06:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-28T22:24:55.625</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-28T22:21:27.698</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\NumberPuzzle.xbf">
+      <PackagePath>NumberPuzzle.xbf</PackagePath>
+      <Modified>2015-05-28T22:24:55.629</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\App5.xr.xml">
+      <PackagePath>App5.xr.xml</PackagePath>
+      <Modified>2015-05-28T21:26:58.865</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-28T22:21:28.219</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

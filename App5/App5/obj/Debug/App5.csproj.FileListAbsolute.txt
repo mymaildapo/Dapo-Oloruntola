@@ -1,0 +1,164 @@
+D:\Users\dapo\Desktop\App5\App5\bin\Debug\App.xbf
+D:\Users\dapo\Desktop\App5\App5\bin\Debug\MainPage.xbf
+D:\Users\dapo\Desktop\App5\App5\bin\Debug\App5.exe
+D:\Users\dapo\Desktop\App5\App5\bin\Debug\App5.pdb
+D:\Users\dapo\Desktop\App5\App5\bin\Debug\resources.pri
+D:\Users\dapo\Desktop\App5\App5\bin\Debug\AppxManifest.xml
+D:\Users\dapo\Desktop\App5\App5\bin\Debug\App5.build.appxrecipe
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\App.g.i.cs
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\App.g.cs
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\MainPage.g.i.cs
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\MainPage.g.cs
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\XamlTypeInfo.g.cs
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\App.xaml
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\MainPage.xaml
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\App.xbf
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\MainPage.xbf
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\XamlSaveStateFile.xml
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\App5.exe
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\App5.pdb
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\priconfig.xml
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\priconfig.xml.intermediate
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\layout.resfiles
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\layout.resfiles.intermediate
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\resources.resfiles
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\resources.resfiles.intermediate
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\pri.resfiles
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\pri.resfiles.intermediate
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\qualifiers.txt
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\qualifiers.txt.intermediate
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\ProjectArchitectures.txt
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\NumberPuzzle.g.i.cs
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\NumberPuzzle.g.cs
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\NumberPuzzle.xaml
+D:\Users\dapo\Desktop\App5\App5\obj\Debug\NumberPuzzle.xbf
+D:\Users\dapo\Desktop\App5\App5\bin\Debug\NumberPuzzle.xbf
+E:\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\App.xbf
+E:\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\MainPage.xbf
+E:\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\NumberPuzzle.xbf
+E:\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\App5.exe
+E:\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\App5.pdb
+E:\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\resources.pri
+E:\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\AppxManifest.xml
+E:\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\App5.build.appxrecipe
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\App.g.i.cs
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\App.g.cs
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\MainPage.g.i.cs
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\MainPage.g.cs
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\NumberPuzzle.g.i.cs
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\NumberPuzzle.g.cs
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\XamlTypeInfo.g.cs
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\App.xaml
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\MainPage.xaml
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\App.xbf
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\MainPage.xbf
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\XamlSaveStateFile.xml
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\NumberPuzzle.xaml
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\NumberPuzzle.xbf
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\App5.exe
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\App5.pdb
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\priconfig.xml
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\priconfig.xml.intermediate
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\layout.resfiles
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\layout.resfiles.intermediate
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\resources.resfiles
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\resources.resfiles.intermediate
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\pri.resfiles
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\pri.resfiles.intermediate
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\qualifiers.txt
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\qualifiers.txt.intermediate
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\ProjectArchitectures.txt
+E:\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\SelectPics.xbf
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\SelectPics.g.i.cs
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\SelectPics.g.cs
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\SelectPics.xaml
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\SelectPics.xbf
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\Lion.g.i.cs
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\Lion.g.cs
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\Lion.xaml
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\Lion.xbf
+E:\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\Lion.xbf
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\Lion1.g.i.cs
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\Lion1.g.cs
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\Lion1.xaml
+E:\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\Lion1.xbf
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\App.g.i.cs
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\App.g.cs
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\MainPage.g.i.cs
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\MainPage.g.cs
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\NumberPuzzle.g.i.cs
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\NumberPuzzle.g.cs
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\SelectPics.g.i.cs
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\SelectPics.g.cs
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\XamlTypeInfo.g.cs
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\App.xaml
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\MainPage.xaml
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\NumberPuzzle.xaml
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\SelectPics.xaml
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\App.xbf
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\MainPage.xbf
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\NumberPuzzle.xbf
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\SelectPics.xbf
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\XamlSaveStateFile.xml
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\App5.exe
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\App5.pdb
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\App.xbf
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\MainPage.xbf
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\NumberPuzzle.xbf
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\SelectPics.xbf
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\App5.exe
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\App5.pdb
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\resources.pri
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\AppxManifest.xml
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\App5.build.appxrecipe
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\priconfig.xml
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\priconfig.xml.intermediate
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\layout.resfiles
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\layout.resfiles.intermediate
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\resources.resfiles
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\resources.resfiles.intermediate
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\pri.resfiles
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\pri.resfiles.intermediate
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\qualifiers.txt
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\qualifiers.txt.intermediate
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\first window 8.1 document\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\ProjectArchitectures.txt
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\App.g.i.cs
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\App.g.cs
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\MainPage.g.i.cs
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\MainPage.g.cs
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\NumberPuzzle.g.i.cs
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\NumberPuzzle.g.cs
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\App.xaml
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\NumberPuzzle.xaml
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\App.xbf
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\NumberPuzzle.xbf
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\App5.exe
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\App5.pdb
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\App.xbf
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\MainPage.xbf
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\NumberPuzzle.xbf
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\App5.exe
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\App5.pdb
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\resources.pri
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\AppxManifest.xml
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\App5.build.appxrecipe
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\MainPage.xaml
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\MainPage.xbf
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\priconfig.xml
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\priconfig.xml.intermediate
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\layout.resfiles
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\layout.resfiles.intermediate
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\resources.resfiles
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\resources.resfiles.intermediate
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\pri.resfiles
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\pri.resfiles.intermediate
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\qualifiers.txt
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\obj\Debug\ProjectArchitectures.txt
+C:\Users\Dapo\Desktop\Dapo Oloruntola Puzzle App\App5\App5\bin\Debug\App5.xr.xml
